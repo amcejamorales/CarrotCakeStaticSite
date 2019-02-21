@@ -40,7 +40,6 @@ On the CSS side you'll learn to do the following:
 - change the heading's position
 - change the background color
 - add a border to sections
-- style a link
 - format the spacing between elements
 - resize an image, round its corners, and reposition it
 
