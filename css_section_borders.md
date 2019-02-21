@@ -41,8 +41,8 @@ In the example above, the selector is _section_, the property is _border_, and i
 
 Go ahead and add a custom border to your sections and play around with the different styles. Once you refresh the page you should see the border applied to both your ingredients and instructions sections. That's the utility of using sections to apply styles to more than one chunk of elements.
 
-> Challenge: Figure out how to round out the corners on the borders in your sections using CSS. 
+> Challenge: Figure out how to round out the corners on the borders in your sections using CSS.
 
 [Previous: Changing the Background Color](css_background_color.md)
 
-[Next: Styling a Link](css_link_style.md)
+[Next: Formatting the Spacing Between Elements](css_format_spacing.md)
