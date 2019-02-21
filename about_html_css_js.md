@@ -37,7 +37,7 @@ This tutorial only covers HTML and CSS. It walks through creating a recipe page 
 
 On the CSS side you'll learn to do the following:
 - change the font
-- change the header's position
+- change the heading's position
 - change the background color
 - add a border to sections
 - style a link

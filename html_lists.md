@@ -77,4 +77,4 @@ You've gotten to the end of the HTML section. Next up we'll add some CSS to our 
 
 [Previous: Adding an Image](html_image.md)
 
-[Next: ]()
+[Next: Changing the Font](css_font.md)
