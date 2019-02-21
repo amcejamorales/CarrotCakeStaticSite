@@ -41,7 +41,7 @@ On the CSS side you'll learn to do the following:
 - change the background color
 - add a border to sections
 - format the spacing between elements
-- resize an image, round its corners, and reposition it
+- resize and reposition an image
 
 [Previous: Introduction](README.md)
 
