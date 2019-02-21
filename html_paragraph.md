@@ -2,13 +2,28 @@
 
 Before you can code your webpage you should create a folder in your computer where you'll put your HTML and CSS files. I recommend creating a folder in your Desktop (you can call it anything, e.g., "recipe").
 
-Then open your code editor, e.g., Atom, and navigate to where the folder is located. Inside Atom go to `File > Open`. In the Window select Desktop, then recipe. This should open Atom to the empty folder you just created. You're now ready to make your HTML file. Inside Atom go to `File > New File`. This will open up a new file called "untitled" in Atom. Inside this file go to `File > Save As`, give your file the name `index.html` and click `Save`. You can now start coding HTML!
+Then open your code editor, e.g., Atom, and navigate to where the folder is located. Inside Atom go to `File > Open`. In the Window select Desktop, then recipe. This should open Atom to the empty folder you just created. You're now ready to make your HTML file. Inside Atom go to `File > New File`. This will open up a new file called "untitled" in Atom. Inside this file go to `File > Save As`, give your file the name `index.html` and click `Save`.
+
+There's some "boilerplate" HTML that you need to get up and running. The purpose of this code is not that important to know for now. Simply copy and paste the following block of code into your `index.html` file and save it.
+```
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+  </body>
+</html>
+```
+All of the content on the webpage you're creating will go in between the opening `<body>` tag and the closing `</body>` tag. We'll get to what tags are shortly. In the meantime just know that everything you put inside of the `body` element is what will be visible on the webpage. Alright, you can now start coding HTML!
 
 ---
 
 ## Adding Text
 
-The most common element you're likely to see on a page is text. You could actually add simple text to your page without any HTML syntax and see it appear on your browser (this may depend on the browser you use). Go ahead and try it. Add the following text to your `index.html` file:
+The most common element you're likely to see on a page is text. You could actually add simple text to your page without any HTML syntax and see it appear on your browser (this may depend on the browser you use). Go ahead and try it. Add the following text to your `index.html` file (recall: put everything in between the `body` tags):
 ```
 Hello World
 ```
